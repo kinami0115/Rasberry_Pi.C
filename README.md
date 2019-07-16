@@ -1,2 +1,2 @@
-# Rasberry_Pi.C
-Rasberry_Pi.C
+# Raspberry_Pi.C
+Raspberry_Pi.C
